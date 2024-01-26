@@ -1,6 +1,7 @@
 # Algo-Dissection
 Knowledge base of data structure and algorithm implementations.
-Code are mostly in python.
+Code are wrttien in Python.
+Zero-indexed.
 
 # Data Structure
 
