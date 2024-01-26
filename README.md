@@ -1,2 +1,13 @@
 # Algo-Dissection
-Knowledge base of the fundamental data structure and algorithm implementations.
+Knowledge base of data structure and algorithm implementations.
+
+# Data Structure
+
+## Stack
+
+## Queue
+### Priority Queue
+
+## Linked List
+## Tree
+## Hash Table
