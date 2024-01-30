@@ -16,7 +16,6 @@ Zero-indexed.
 
 # Algorithm
 ## Search
-### Minimax search
+### Minimax search and alpha-beta pruning
 https://www.youtube.com/watch?v=l-hh51ncgDI
-### Minimax search with alpha-beta pruning
 ### Expectimax search
