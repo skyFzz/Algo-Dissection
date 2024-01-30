@@ -13,3 +13,10 @@ Zero-indexed.
 ## Linked List
 ## Tree
 ## Hash Table
+
+# Algorithm
+## Search
+### Minimax search
+https://www.youtube.com/watch?v=l-hh51ncgDI
+### Minimax search with alpha-beta pruning
+### Expectimax search
